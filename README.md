@@ -5,3 +5,6 @@ Hi, My name is Anchal. I am a highly skilled and motivated data analyst with a p
 My cv in [pdf](https://github.com/anchalds246/Data-analyst-portfolio/files/13998836/ANCHAL_cv_reading.pdf)
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics related topics.
+
+## Table of Content 
+[About](https://github.com/anchalds246/Data-analyst-portfolio/edit/main/README.md#about)
